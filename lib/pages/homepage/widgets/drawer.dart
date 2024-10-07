@@ -113,10 +113,10 @@ Widget buildDrawer(context) {
           ),
         ),
 
-        const Padding(
-          padding: EdgeInsets.all(0),
-          child: Text("Official App of\nTeam Kolkata bus-o-pedia",style: TextStyle(fontSize: 15,color: Colors.grey,),textAlign: TextAlign.left,),
-        ),
+        // const Padding(
+        //   padding: EdgeInsets.all(0),
+        //   child: Text("Official App of\nTeam Kolkata bus-o-pedia",style: TextStyle(fontSize: 15,color: Colors.grey,),textAlign: TextAlign.left,),
+        // ),
         const Divider(), // Optional, for visual separation
         Padding(
           padding: const EdgeInsets.all(8.0),

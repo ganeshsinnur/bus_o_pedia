@@ -1,6 +1,3 @@
-
-import 'dart:developer';
-
 import '../models/model.dart';
 
 class funs{
