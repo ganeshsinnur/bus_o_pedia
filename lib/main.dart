@@ -1,4 +1,4 @@
-import 'package:bus_o_pedia/pages/source_to_destination/source_to_destination_page.dart';
+import 'package:bus_o_pedia/pages/homepage/homepage.dart';
 import 'package:bus_o_pedia/themes/dark_light_theme.dart';
 import 'package:flutter/material.dart';
 
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
     theme: lightMode,
     darkTheme: darkMode,
-    home:  SourceToDestinationPage(),
+    home:  HomePage(),
     );
   }
 }
